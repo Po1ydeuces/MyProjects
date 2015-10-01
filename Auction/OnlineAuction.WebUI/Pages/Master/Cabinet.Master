@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Cabinet.master.cs" Inherits="OnlineAuction.WebUI.Pages.Master.Cabinet"
+    MasterPageFile="~/Pages/Master/Site.Master" %>
+
+<%@ Register Src="~/Pages/Controls/CabinetList.ascx" TagPrefix="OA" TagName="CabinetList" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+    <div id="categories">
+        <div id="categoriestitle">
+            Личный кабинет
+        </div>
+        <div id="categorieslist">
+            <OA:CabinetList runat="server" ID="CabinetList" />
+        </div>
+    </div>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderUserCabinet" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <div class="clear"></div>
+</asp:Content>

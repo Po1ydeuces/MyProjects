@@ -1,0 +1,10 @@
+D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Release\OnlineAuction.Logic.dll.config
+D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Release\OnlineAuction.Logic.dll
+D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Release\OnlineAuction.Logic.pdb
+D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Release\EntityFramework.dll
+D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Release\EntityFramework.SqlServer.dll
+D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Release\EntityFramework.xml
+D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Release\EntityFramework.SqlServer.xml
+D:\ControlVersion\Auction\OnlineAuction.Logic\obj\Release\OnlineAuction.Logic.csprojResolveAssemblyReference.cache
+D:\ControlVersion\Auction\OnlineAuction.Logic\obj\Release\OnlineAuction.Logic.dll
+D:\ControlVersion\Auction\OnlineAuction.Logic\obj\Release\OnlineAuction.Logic.pdb

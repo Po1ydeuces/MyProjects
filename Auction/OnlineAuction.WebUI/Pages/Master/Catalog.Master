@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Catalog.master.cs" Inherits="OnlineAuction.WebUI.Pages.Master.Catalog"
+    MasterPageFile="~/Pages/Master/Site.Master" %>
+
+<%@ Register Src="~/Pages/Controls/SectionList.ascx" TagPrefix="OA" TagName="SectionList" %>
+
+<asp:Content ContentPlaceHolderID="ContentPlaceHolderMain" runat="server">
+
+    <div id="categories">
+        <div id="categoriestitle">
+            Разделы
+        </div>
+        <div id="categorieslist">
+            <OA:SectionList runat="server" ID="SectionList" />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderRandomLot" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+    </div>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderCatalog" runat="server">
+    </asp:ContentPlaceHolder>
+    <div class="clear"></div>
+
+</asp:Content>

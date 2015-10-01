@@ -1,1 +1,1 @@
-Online-Auction project. Epam System .Net Learning Program. September, 2015
+Epam System .Net Learning Program. September, 2015

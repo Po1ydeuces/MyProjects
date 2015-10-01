@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="OnlineAuction.WebUI.Pages.Master.Site" %>
+
+<%@ Register Src="~/Pages/Controls/Search.ascx" TagPrefix="OA" TagName="Search" %>
+<%@ Register Src="~/Pages/Controls/Logon.ascx" TagPrefix="OA" TagName="Logon" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Интернет-аукцион "Продано"</title>
+    <link rel="stylesheet" type="text/css" href="/Content/Styles/main.css" />
+    <link rel="shortcut icon" href="/Content/Images/icon.ico" />
+
+</head>
+<body>
+    <form id="mainForm" runat="server" method="post" enctype="multipart/form-data">
+        <%--Header--%>
+        <div id="header" class="base">
+            <div id="logo">
+                <a href="main"></a>
+                <asp:ImageButton ID="LogoBtn" runat="server" ImageUrl="~/Content/Images/logo.png" CausesValidation="False" Height="150px" Width="300px" OnClick="LogoBtn_Click" />
+            </div>
+            <div id="search">
+                <OA:Search runat="server" ID="Search" />
+            </div>
+            <%--LoginStatus--%>
+            <OA:Logon runat="server" ID="Logon" />
+        </div>
+
+        <%--Main--%>
+        <div id="main" class="base">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <%--Footer--%>
+        <div id="footer" class="base">
+            <div id="powered">Назымок Д.В., EPAM ASP.Net, Караганда, 2015</div>
+        </div>
+    </form>
+</body>
+</html>

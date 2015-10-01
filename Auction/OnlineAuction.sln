@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineAuction.Logic", "OnlineAuction.Logic\OnlineAuction.Logic.csproj", "{A76B7FD8-D261-480B-83F1-B24DDD15DAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineAuction.WebUI", "OnlineAuction.WebUI\OnlineAuction.WebUI.csproj", "{B79186A9-ED1F-45AD-B527-E7E45DB9461F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://po1udeuces.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = OnlineAuction.Logic\\OnlineAuction.Logic.csproj
+		SccProjectName1 = OnlineAuction.Logic
+		SccLocalPath1 = OnlineAuction.Logic
+		SccProjectUniqueName2 = OnlineAuction.WebUI\\OnlineAuction.WebUI.csproj
+		SccProjectName2 = OnlineAuction.WebUI
+		SccLocalPath2 = OnlineAuction.WebUI
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A76B7FD8-D261-480B-83F1-B24DDD15DAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76B7FD8-D261-480B-83F1-B24DDD15DAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76B7FD8-D261-480B-83F1-B24DDD15DAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76B7FD8-D261-480B-83F1-B24DDD15DAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B79186A9-ED1F-45AD-B527-E7E45DB9461F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79186A9-ED1F-45AD-B527-E7E45DB9461F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79186A9-ED1F-45AD-B527-E7E45DB9461F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79186A9-ED1F-45AD-B527-E7E45DB9461F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
