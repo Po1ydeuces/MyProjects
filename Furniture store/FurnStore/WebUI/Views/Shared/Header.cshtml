@@ -1,0 +1,22 @@
+﻿<style>
+    .navbar-right {
+        float: right !important;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
+    #categories {
+        margin-left: 25px;
+    }
+</style>
+
+
+<div class="navbar navbar-inverse" role="navigation">
+    <div class="container-fluid">
+        @Html.ActionLink("Магазин мебели", "List", "Furniture", null,
+new { @class = "navbar-brand" })
+        @Html.Partial("LoginPanel")
+        @Html.Action("Summary", "Cart")
+
+    </div>
+</div>

@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется в процессе публикации или упаковки вашего веб-проекта. Вы можете настроить поведение процесса,
+изменив этот файл MSBuild. Дополнительные сведения см. по адресу http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6n16n/JSzESKYdEYRrQC6AAAAAACAAAAAAAQZgAAAAEAACAAAAAuDp+0of7pmSWQBgAwOgxfr/3POBxoLz3mcOszUS1k1AAAAAAOgAAAAAIAACAAAABvAOBqrYtddmgR/VP1kg0759B4JJabD1Pycql40HqA9iAAAABo5X9/0yyMUpnyOh7rJLxOH0HD8aOfgGuwFFC/hFBYHUAAAABz5015LH1rsMUOHpEWZ1UfuGntHhAnNARZezwguzDJraZ3AxEAjIwnHuyfEkPSaNEWHtWM0+mJAZiuVoMLb4Q5</EncryptedPassword>
+    <_PublishTargetUrl>ftp://ftp.smarterasp.net/Site1</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Domain.dll">
+      <publishTime>09/29/2015 04:07:40</publishTime>
+    </File>
+    <File Include="bin/Ext.Net.dll">
+      <publishTime>09/27/2015 19:46:43</publishTime>
+    </File>
+    <File Include="bin/Ext.Net.Utilities.dll">
+      <publishTime>09/27/2015 19:46:43</publishTime>
+    </File>
+    <File Include="bin/FluentNHibernate.dll">
+      <publishTime>09/25/2015 21:27:36</publishTime>
+    </File>
+    <File Include="bin/Iesi.Collections.dll">
+      <publishTime>09/25/2015 21:27:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/25/2015 21:21:06</publishTime>
+    </File>
+    <File Include="bin/Moq.dll">
+      <publishTime>09/25/2015 21:21:11</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/27/2015 19:46:43</publishTime>
+    </File>
+    <File Include="bin/NHibernate.dll">
+      <publishTime>09/25/2015 21:27:36</publishTime>
+    </File>
+    <File Include="bin/Ninject.dll">
+      <publishTime>09/25/2015 21:21:04</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Common.dll">
+      <publishTime>09/25/2015 21:21:06</publishTime>
+    </File>
+    <File Include="bin/Ninject.Web.Mvc.dll">
+      <publishTime>09/25/2015 21:21:08</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Helpers.resources.dll">
+      <publishTime>09/26/2015 13:59:07</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Mvc.resources.dll">
+      <publishTime>09/26/2015 13:59:07</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.Razor.resources.dll">
+      <publishTime>09/26/2015 13:59:07</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.WebPages.Deployment.resources.dll">
+      <publishTime>09/26/2015 13:59:07</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.WebPages.Razor.resources.dll">
+      <publishTime>09/26/2015 13:59:07</publishTime>
+    </File>
+    <File Include="bin/ru/System.Web.WebPages.resources.dll">
+      <publishTime>09/26/2015 13:59:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/26/2015 13:58:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/26/2015 13:58:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/26/2015 13:58:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>09/26/2015 13:58:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>09/26/2015 13:58:49</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>09/26/2015 13:58:49</publishTime>
+    </File>
+    <File Include="bin/Transformer.NET.dll">
+      <publishTime>09/27/2015 19:46:43</publishTime>
+    </File>
+    <File Include="bin/WebActivator.dll">
+      <publishTime>09/25/2015 21:21:06</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>09/27/2015 19:46:43</publishTime>
+    </File>
+    <File Include="bin/WebUI.dll">
+      <publishTime>09/29/2015 04:31:52</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/25/2015 21:20:21</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/29/2015 04:30:36</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>09/25/2015 23:45:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>09/25/2015 23:45:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>09/25/2015 23:45:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>09/26/2015 21:36:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>09/26/2015 21:36:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>09/26/2015 21:36:10</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>09/26/2015 21:36:10</publishTime>
+    </File>
+    <File Include="Styles/Content/bootstrap-theme.css">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/Content/bootstrap-theme.css.map">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/Content/bootstrap-theme.min.css">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/Content/bootstrap.css">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/Content/bootstrap.css.map">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/Content/bootstrap.min.css">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/Content/Errors.css">
+      <publishTime>09/26/2015 11:42:59</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Styles/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>09/28/2015 18:09:10</publishTime>
+    </File>
+    <File Include="Views/Account/Login.cshtml">
+      <publishTime>09/28/2015 22:45:07</publishTime>
+    </File>
+    <File Include="Views/Admin/Edit.cshtml">
+      <publishTime>09/29/2015 01:35:31</publishTime>
+    </File>
+    <File Include="Views/Admin/Index.cshtml">
+      <publishTime>09/26/2015 22:03:34</publishTime>
+    </File>
+    <File Include="Views/Cart/Checkout.cshtml">
+      <publishTime>09/28/2015 22:45:07</publishTime>
+    </File>
+    <File Include="Views/Cart/Index.cshtml">
+      <publishTime>09/28/2015 22:45:07</publishTime>
+    </File>
+    <File Include="Views/Cart/OrderCompleted.cshtml">
+      <publishTime>09/28/2015 22:45:07</publishTime>
+    </File>
+    <File Include="Views/Cart/Summary.cshtml">
+      <publishTime>09/28/2015 22:45:07</publishTime>
+    </File>
+    <File Include="Views/Furniture/FurnitureSummary.cshtml">
+      <publishTime>09/29/2015 04:28:44</publishTime>
+    </File>
+    <File Include="Views/Furniture/List.cshtml">
+      <publishTime>09/29/2015 03:53:38</publishTime>
+    </File>
+    <File Include="Views/Nav/FlexMenu.cshtml">
+      <publishTime>09/28/2015 22:17:01</publishTime>
+    </File>
+    <File Include="Views/Shared/Header.cshtml">
+      <publishTime>09/28/2015 22:45:06</publishTime>
+    </File>
+    <File Include="Views/Shared/LoginPanel.cshtml">
+      <publishTime>09/28/2015 22:45:06</publishTime>
+    </File>
+    <File Include="Views/Shared/_AdminLayout.cshtml">
+      <publishTime>09/28/2015 22:40:51</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/29/2015 04:26:42</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>09/29/2015 04:33:47</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/25/2015 22:40:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/29/2015 04:38:22</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

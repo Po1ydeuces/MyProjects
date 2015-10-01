@@ -1,0 +1,45 @@
+﻿@using WebUI.Models
+@using WebUI.HtmlHelpers
+@model FurnituresListViewModel
+
+@{
+    ViewBag.Title = "Мебель";
+    
+
+}
+
+@{
+    <script type="text/javascript">
+        var text = "Текст";
+    </script>
+}
+
+@foreach (var p in @Model.Furnitures)
+{
+    @Html.Partial("FurnitureSummary", p)
+    
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List",
+        new { page = x, category = Model.CurrentSection }))
+</div>
+
+
+@*<div class="well">
+      @{
+        @Html.X().ResourceManager()
+
+        @(
+            Html.X().Portal()
+               .Items(
+               Html.X().PortalColumn()
+               .ItemID("main")
+                   .ItemsFromPartial("FurnitureSummary")
+                        )
+        )
+
+    }
+    </div>*@
+
+
