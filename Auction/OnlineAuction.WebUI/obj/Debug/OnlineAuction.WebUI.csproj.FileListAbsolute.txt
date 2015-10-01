@@ -26,3 +26,17 @@ D:\ControlVersion\Auction\OnlineAuction.WebUI\bin\log4net.xml
 D:\ControlVersion\Auction\OnlineAuction.WebUI\obj\Debug\OnlineAuction.WebUI.csprojResolveAssemblyReference.cache
 D:\ControlVersion\Auction\OnlineAuction.WebUI\obj\Debug\OnlineAuction.WebUI.dll
 D:\ControlVersion\Auction\OnlineAuction.WebUI\obj\Debug\OnlineAuction.WebUI.pdb
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\OnlineAuction.WebUI.dll.config
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\OnlineAuction.WebUI.dll
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\OnlineAuction.WebUI.pdb
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\EntityFramework.dll
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\EntityFramework.SqlServer.dll
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\log4net.dll
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\OnlineAuction.Logic.dll
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\OnlineAuction.Logic.pdb
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\EntityFramework.xml
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\EntityFramework.SqlServer.xml
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\bin\log4net.xml
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\obj\Debug\OnlineAuction.WebUI.csprojResolveAssemblyReference.cache
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\obj\Debug\OnlineAuction.WebUI.dll
+D:\Work\git-repo\Auction\OnlineAuction.WebUI\obj\Debug\OnlineAuction.WebUI.pdb

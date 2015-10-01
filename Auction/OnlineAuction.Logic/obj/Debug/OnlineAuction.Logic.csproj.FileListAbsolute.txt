@@ -18,3 +18,13 @@ D:\ControlVersion\Auction\OnlineAuction.Logic\bin\Debug\EntityFramework.SqlServe
 D:\ControlVersion\Auction\OnlineAuction.Logic\obj\Debug\OnlineAuction.Logic.csprojResolveAssemblyReference.cache
 D:\ControlVersion\Auction\OnlineAuction.Logic\obj\Debug\OnlineAuction.Logic.dll
 D:\ControlVersion\Auction\OnlineAuction.Logic\obj\Debug\OnlineAuction.Logic.pdb
+D:\Work\git-repo\Auction\OnlineAuction.Logic\bin\Debug\OnlineAuction.Logic.dll.config
+D:\Work\git-repo\Auction\OnlineAuction.Logic\bin\Debug\OnlineAuction.Logic.dll
+D:\Work\git-repo\Auction\OnlineAuction.Logic\bin\Debug\OnlineAuction.Logic.pdb
+D:\Work\git-repo\Auction\OnlineAuction.Logic\bin\Debug\EntityFramework.dll
+D:\Work\git-repo\Auction\OnlineAuction.Logic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\git-repo\Auction\OnlineAuction.Logic\bin\Debug\EntityFramework.xml
+D:\Work\git-repo\Auction\OnlineAuction.Logic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\git-repo\Auction\OnlineAuction.Logic\obj\Debug\OnlineAuction.Logic.csprojResolveAssemblyReference.cache
+D:\Work\git-repo\Auction\OnlineAuction.Logic\obj\Debug\OnlineAuction.Logic.dll
+D:\Work\git-repo\Auction\OnlineAuction.Logic\obj\Debug\OnlineAuction.Logic.pdb
